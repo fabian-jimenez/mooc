@@ -1,6 +1,6 @@
 # mooc
 # archivos en el siguinte link de google drive 
-# 
+# https://drive.google.com/drive/folders/1Px_RK05PNubGlYrr0gA6hKIavBaY4Fx1?usp=drive_link
  
 # analisis 
 Este análisis tiene como objetivo examinar los datos presentados en el DASHBARD y extraer información clave sobre el como podemos y por donde podemos abordar el mercado de los cursos online. El dashboard muestra una variedad de métricas que nos ayudara a orientarnos para tomar la mejor decisión de cómo abordar este mercado y cual podría ser la mejor estrategia de entrada para este negocio.
